@@ -1,0 +1,16 @@
+{
+  "name": "postman_automation_newman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "report.js",
+  "scripts": {
+    "test": "node report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.2.2",
+    "newman-reporter-htmlextra": "^1.20.3"
+  }
+}
